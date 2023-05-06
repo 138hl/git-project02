@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello git hotfix");
         System.out.println("Hello git modify1");
         System.out.println("Hello git hotfix modify");
+        System.out.println("Test Pull from GitHub");
     }
 }
