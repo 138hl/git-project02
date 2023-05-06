@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello git");
         System.out.println("Hello git  200");
         System.out.println("Hello git  300");
+        System.out.println("Hello git hotfix");
     }
 }
